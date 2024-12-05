@@ -1,0 +1,37 @@
+/** This is font-family **/
+	
+/* Cocon */
+@font-face {
+    font-family: 'Cocon';
+    src: url('Cocon/Cocon.eot');
+    src: url('Cocon/Cocon.eot?#iefix') format('embedded-opentype'),
+         url('Cocon/Cocon.woff') format('woff'),
+         url('Cocon/Cocon.ttf') format('truetype'),
+         url('Cocon/Cocon.svg#cocon_next_arabicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** DroidKufi **/
+@font-face {
+    font-family: 'DroidKufi';
+    src: url('DroidKufi/DroidKufi.eot');
+    src: url('DroidKufi/DroidKufi.eot?#iefix') format('embedded-opentype'),
+         url('DroidKufi/DroidKufi.woff') format('woff'),
+         url('DroidKufi/DroidKufi.ttf') format('truetype'),
+         url('DroidKufi/DroidKufi.svg#DroidKufi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** SegoeUi **/
+@font-face {
+    font-family: 'segoi UI';
+    src: url('segoiUI/segoiUI.eot');
+    src: url('SegoeUI/SegoeUI.eot?#iefix') format('embedded-opentype'),
+         url('SegoeUI/SegoeUI.woff') format('woff'),
+         url('SegoeUI/SegoeUI.ttf') format('truetype'),
+         url('SegoeUI/SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
